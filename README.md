@@ -1,6 +1,6 @@
-# Intelligent Book Recommendation Engine
+# Intelligent Book Recommendation System
 
-This repository contains a project for building an intelligent recommendation engine for an online book selling company. The recommendation engine suggests relevant books to users based on their preferences and past behavior. 
+This repository contains a project for building an intelligent recommendation system for an online book selling company. The recommendation engine suggests relevant books to users based on their preferences and past behavior. 
 
 ## Table of Contents
 - [Project Overview](#project-overview)
