@@ -5,6 +5,7 @@ This repository contains a project for building an intelligent recommendation sy
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Business Context and Problem](#business-context-and-problem)
+- [Datasets](#datasets)
 - [Modules](#modules)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
@@ -24,6 +25,9 @@ This repository's distinctive feature is its approach to recommendation engine d
 With the ever-growing online content and the ubiquity of Internet-enabled devices, users are facing information overload. This overload leads to difficulties in making decisions on what content or products to consume or purchase. The project focuses on helping an online book selling company that has been experiencing declining sales due to the overwhelming choices and challenges customers face when selecting books to buy.
 
 The company's management recognizes the need for an intelligent recommendation engine to assist users in finding books aligned with their interests. This engine will not only enhance sales by providing personalized recommendations but also improve customer satisfaction by simplifying the decision-making process.
+
+## Datasets
+[Datasets](https://github.com/Baci-Ak/Datasets)
 
 ## Modules
 
