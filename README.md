@@ -51,10 +51,8 @@ The company's management recognizes the need for an intelligent recommendation e
 
 ## Usage
 
-1. Populate the required CSV files (`Users.csv`, `Books.csv`, and `Book-Rating.csv`) with user, book, and rating information.
-2. Run the `load_dataset_module` to retrieve and structure data.
-3. Use the `similarity_module` to compute similarity scores using different metrics.
-4. Interact with the `test_module` to query and display similarity between users and books.
+1. Populate the required CSV files (`Users.csv`, `Books.csv`, and `Book-Rating.csv`) with user, book, and rating information on your working directory.
+2. Run the `using_the_system.ipynb` to interact with the system, query and display similarity between users and books.
 
 ## Contributing
 
